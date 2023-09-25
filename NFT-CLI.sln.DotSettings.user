@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=802a7e8d_002Dd79f_002D4e45_002Dbf10_002D139930800cdb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ApplicationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Tools.ApplicationTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Tools.Commands.CommandInfoTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Tools.Commands.BaseCommandTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Commands.NFTOwnershipCommandTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Commands.ReadFileCommandTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Commands.ReadInLineCommandTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Commands.ResetCommandTests.PerformActionAsync_ReturnsTrue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::65AD7A89-2322-4524-917D-B3CD89881C74::net7.0::NFT.CLI.Tests.Commands.WalletOwnershipCommandTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Commands.Handlers.ReadFileCommandHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Commands.Handlers.ReadInLineCommandHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Commands.Handlers.ResetCommandHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Domain.Repositories.TransactionRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Events.Handlers.TransactionEventHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Processors.TransactionProcessorTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Queries.Handlers.GetNFTOwnerQueryHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6A3D623F-5E22-4922-980E-FCEB0B64933B::net7.0::NFT.Application.Tests.Queries.Handlers.GetWalletOwnershipQueryHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

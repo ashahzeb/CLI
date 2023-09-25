@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFT.CLI", "NFT.CLI\NFT.CLI.csproj", "{13F210D7-D731-4068-B9A3-523567FEFA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFT.Application", "NFT.Application\NFT.Application.csproj", "{D569E23C-8879-4237-AB2E-609E955BC965}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{27458805-74CC-4249-8DD7-FFF26C8E2584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFT.CLI.Tests", "NFT.CLI.Tests\NFT.CLI.Tests.csproj", "{65AD7A89-2322-4524-917D-B3CD89881C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFT.Application.Tests", "NFT.Application.Tests\NFT.Application.Tests.csproj", "{6A3D623F-5E22-4922-980E-FCEB0B64933B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F210D7-D731-4068-B9A3-523567FEFA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F210D7-D731-4068-B9A3-523567FEFA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F210D7-D731-4068-B9A3-523567FEFA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F210D7-D731-4068-B9A3-523567FEFA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D569E23C-8879-4237-AB2E-609E955BC965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D569E23C-8879-4237-AB2E-609E955BC965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D569E23C-8879-4237-AB2E-609E955BC965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D569E23C-8879-4237-AB2E-609E955BC965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AD7A89-2322-4524-917D-B3CD89881C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AD7A89-2322-4524-917D-B3CD89881C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AD7A89-2322-4524-917D-B3CD89881C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AD7A89-2322-4524-917D-B3CD89881C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3D623F-5E22-4922-980E-FCEB0B64933B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3D623F-5E22-4922-980E-FCEB0B64933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3D623F-5E22-4922-980E-FCEB0B64933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3D623F-5E22-4922-980E-FCEB0B64933B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65AD7A89-2322-4524-917D-B3CD89881C74} = {27458805-74CC-4249-8DD7-FFF26C8E2584}
+		{6A3D623F-5E22-4922-980E-FCEB0B64933B} = {27458805-74CC-4249-8DD7-FFF26C8E2584}
+	EndGlobalSection
+EndGlobal
